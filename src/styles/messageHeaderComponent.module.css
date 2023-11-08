@@ -1,0 +1,31 @@
+.header {
+  color: #000;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin: 10px 0px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.image {
+  border-radius: 20px;
+  width: 40px;
+  margin-right: 10px;
+  height: 40px;
+}
+.timeStamp {
+  color: #000;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 15px 0px;
+}
